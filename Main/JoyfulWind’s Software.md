@@ -59,7 +59,7 @@
 ### 以下是您可以下载并受到支持的项目
 - Joyful Compress
     
-    [Download](https://wwbqj.lanzout.com/iFpXT3n1gyyh)
+
     
     Version:1.0.0
     
