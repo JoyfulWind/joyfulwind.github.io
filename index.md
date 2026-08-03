@@ -16,6 +16,6 @@
 ---
 **更多...**
 
-[其它软件](/Main/JoyfulWind’s%20Software.md)
+[其它软件](/JoyfulWind’s%20Software.md)
 
 [查看旧版内容](https://app.notion.com/p/joyfulwind/JoyfulWind-s-notion-255512a0fae580a48a68c1cd4a5fabbd)
