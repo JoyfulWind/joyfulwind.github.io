@@ -1,6 +1,3 @@
----
-layout: default
----
 # JoyfulWind’s Website
 **This is JoyfulWind！**
 
