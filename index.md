@@ -1,7 +1,9 @@
 # JoyfulWind’s Website
 **This is JoyfulWind！**
+
 ---
-**<h3>关于我</h3>**
+
+**关于我**
 
 >只是一个普普通通的高中生罢了
 >
@@ -9,7 +11,8 @@
 
 
 ---
-**<h3>欢迎使用我的软件</h3>**
+
+**欢迎使用我的软件**
 
 如果遇到软件打不开的情况请[下载.Net8 SDK](https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.423/dotnet-sdk-8.0.423-win-x64.exe)
 
@@ -40,4 +43,4 @@
 [查看旧版内容](https://app.notion.com/p/joyfulwind/JoyfulWind-s-notion-255512a0fae580a48a68c1cd4a5fabbd)
 
 ---
-我不会写前端，这个网页是抽空随便写的，做的不好请见谅
+我不太会写前端，这个网页是抽空随便写的，做的不好请见谅
